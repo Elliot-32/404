@@ -7,8 +7,7 @@ function 間隔 () {
             . . . . .
             . . . . .
             `)
-    }
-    if (input.runningTime() >= 5000) {
+    } else if (input.runningTime() >= 5000) {
         Time = 0
     }
     basic.pause(Time)
