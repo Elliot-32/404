@@ -10,7 +10,7 @@ while (input.runningTime() < 8000) {
     basic.pause(Time)
     basic.showLeds(`
         . . # . .
-        . # # . .
+        . # # # .
         # . # . #
         . # . # .
         . # . # .

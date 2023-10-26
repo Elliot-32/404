@@ -6,7 +6,7 @@
         . # . . #
         `</field><next><block type="device_pause" id="wfk0G,-ENHYWFn;-*+8s"><value name="pause"><shadow type="timePicker"><field name="ms">100</field></shadow><block type="variables_get" id="})dDTcCTD{~ASp{TKcy{"><field name="VAR" id="fB[L^/N`,94I4}2S!eP#">Time</field></block></value><next><block type="device_show_leds" id="n:1rBZ[;k5RUW(u(|/8`"><field name="LEDS">`
         . . # . . 
-        . # # . . 
+        . # # # . 
         # . # . # 
         . # . # . 
         . # . # .
