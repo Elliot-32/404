@@ -8,6 +8,9 @@ function 間隔 () {
             . . . . .
             `)
     }
+    if (input.runningTime() >= 5000) {
+        Time = 0
+    }
     basic.pause(Time)
 }
 let Time = 0
@@ -45,9 +48,6 @@ while (input.runningTime() < 10000) {
         . # . # .
         `)
     間隔()
-    if (input.runningTime() >= 5000) {
-        Time = 0
-    }
 }
 basic.showLeds(`
     . . # . .
