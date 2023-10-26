@@ -42,7 +42,7 @@ while (input.runningTime() < 10000) {
         . # # # .
         # . # . #
         . # . # .
-        # . . # .
+        . # . # .
         `)
     間隔()
     if (input.runningTime() >= 5000) {
